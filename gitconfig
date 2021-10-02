@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = zunair@msn.com
+	name = Zunair Akbar
